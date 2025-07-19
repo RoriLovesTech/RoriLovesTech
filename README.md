@@ -16,7 +16,7 @@ Hi there! I’m Rorisang Moeketsi, a Data Engineer & Analyst who’s passionate 
 # 📝 Recent Work In 2025:
 I published “A Conceptual Framework for an Inclusive Support System: The Underrepresentation of Women in ICT”
 Presented at the 5th Society 5.0 Conference, this paper dives into how we can build better support systems for women in ICT.
-📖 Read it here: 
+📖 Read it here: https://zenodo.org/records/15703894
 
 # 🛠️ Tech Stack & Skills
 - **Databases:** SQL Server | PostgreSQL | Azure Databricks
